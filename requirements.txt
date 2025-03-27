@@ -1,0 +1,9 @@
+# PDF processing libraries
+PyMuPDF==1.22.3
+pdfplumber==0.10.2
+
+# OpenAI API
+openai==1.6.1
+
+# Environment variables
+python-dotenv==1.0.0
